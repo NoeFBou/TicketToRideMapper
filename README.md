@@ -6,7 +6,7 @@ Description du Projet
 
 Ce projet a été réalisé dans le cadre de ma deuxième année de BUT Informatique. Il s'agit d'un projet collaboratif, développé en groupe dans le cadre de la SAE du premier semestre.
 
-L'objectif de cette application est de créer des cartes ou plateaux personnalisés pour le jeu de société *Les Aventuriers du Rail* (*Ticket to Ride*). Une version de ce jeu a également été développée et est disponible à cette adresse : [Lien à insérer].
+L'objectif de cette application est de créer des cartes ou plateaux personnalisés pour le jeu de société *Les Aventuriers du Rail* (*Ticket to Ride*). Une version de ce jeu a également été développée et est disponible à cette adresse : https://github.com/NoeFBou/TicketToRideGame.
 
 Le principe de l'application est de permettre :
 -   la sélection d'une image comme fond de carte,
